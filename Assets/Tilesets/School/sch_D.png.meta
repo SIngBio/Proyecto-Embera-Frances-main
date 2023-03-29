@@ -1,0 +1,3597 @@
+fileFormatVersion: 2
+guid: c7b5d853c82c9184fb101463f1c53257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2938472101443669359
+    second: sch_D_94
+  - first:
+      213: 2690719053688816831
+    second: sch_D_95
+  - first:
+      213: 7574211526398300938
+    second: sch_D_96
+  - first:
+      213: 2645537342104506575
+    second: sch_D_97
+  - first:
+      213: 2857834242531886245
+    second: sch_D_98
+  - first:
+      213: 1973058445225350840
+    second: sch_D_99
+  - first:
+      213: 4862669249071948040
+    second: sch_D_100
+  - first:
+      213: 2740618066895637085
+    second: sch_D_0
+  - first:
+      213: -8120558231977043976
+    second: sch_D_1
+  - first:
+      213: -3519442350746362926
+    second: sch_D_2
+  - first:
+      213: 4450923645440265935
+    second: sch_D_3
+  - first:
+      213: 209943079248683516
+    second: sch_D_4
+  - first:
+      213: -2865476268319190357
+    second: sch_D_5
+  - first:
+      213: -8176475446113992755
+    second: sch_D_6
+  - first:
+      213: 2259993959492077218
+    second: sch_D_7
+  - first:
+      213: -8421274263464926644
+    second: sch_D_8
+  - first:
+      213: -88050339949083956
+    second: sch_D_9
+  - first:
+      213: 1625306265476010138
+    second: sch_D_10
+  - first:
+      213: -1887584068488239583
+    second: sch_D_11
+  - first:
+      213: -3227609224815093597
+    second: sch_D_12
+  - first:
+      213: -8032370104885246830
+    second: sch_D_13
+  - first:
+      213: 3849358219759866528
+    second: sch_D_14
+  - first:
+      213: -5551581491179949400
+    second: sch_D_15
+  - first:
+      213: -2060867267153897675
+    second: sch_D_16
+  - first:
+      213: 4496322720939176506
+    second: sch_D_17
+  - first:
+      213: 9132898767467787940
+    second: sch_D_18
+  - first:
+      213: -4524442305152267014
+    second: sch_D_19
+  - first:
+      213: 7052731875191362725
+    second: sch_D_20
+  - first:
+      213: -1414809739502761483
+    second: sch_D_21
+  - first:
+      213: 9078642262336901126
+    second: sch_D_22
+  - first:
+      213: 8833357078027365687
+    second: sch_D_23
+  - first:
+      213: -6431253334022790946
+    second: sch_D_24
+  - first:
+      213: 4896640739062486304
+    second: sch_D_25
+  - first:
+      213: 489961365398330532
+    second: sch_D_26
+  - first:
+      213: -7642156139306675820
+    second: sch_D_27
+  - first:
+      213: -4561027206120479755
+    second: sch_D_28
+  - first:
+      213: 3071569190463841641
+    second: sch_D_29
+  - first:
+      213: 5036664472794208104
+    second: sch_D_30
+  - first:
+      213: 7221453533341276709
+    second: sch_D_31
+  - first:
+      213: 8946868997067126683
+    second: sch_D_32
+  - first:
+      213: -2389054890267107650
+    second: sch_D_33
+  - first:
+      213: -811774812231012323
+    second: sch_D_34
+  - first:
+      213: 5005101376941680125
+    second: sch_D_35
+  - first:
+      213: -386099649934347224
+    second: sch_D_36
+  - first:
+      213: 5529718130241048362
+    second: sch_D_37
+  - first:
+      213: 7010753243175227285
+    second: sch_D_38
+  - first:
+      213: -3899757002817790645
+    second: sch_D_39
+  - first:
+      213: 7014821803302918816
+    second: sch_D_40
+  - first:
+      213: 8110615777893454977
+    second: sch_D_41
+  - first:
+      213: -5260036882968431748
+    second: sch_D_42
+  - first:
+      213: 5956857691033478865
+    second: sch_D_43
+  - first:
+      213: 553832450895559439
+    second: sch_D_44
+  - first:
+      213: 3179162335147981788
+    second: sch_D_45
+  - first:
+      213: -3448033423394729339
+    second: sch_D_46
+  - first:
+      213: -2296530692559113256
+    second: sch_D_47
+  - first:
+      213: 6435966349045817356
+    second: sch_D_48
+  - first:
+      213: -1174092083148085271
+    second: sch_D_49
+  - first:
+      213: -498310482088411548
+    second: sch_D_50
+  - first:
+      213: -1940965389367115485
+    second: sch_D_51
+  - first:
+      213: 3343486551485290860
+    second: sch_D_52
+  - first:
+      213: 6184624368474031806
+    second: sch_D_53
+  - first:
+      213: -5530291942160519058
+    second: sch_D_54
+  - first:
+      213: 6984294313600683022
+    second: sch_D_55
+  - first:
+      213: -909750017990371962
+    second: sch_D_56
+  - first:
+      213: 4110335973896924994
+    second: sch_D_57
+  - first:
+      213: 6723751471189602985
+    second: sch_D_58
+  - first:
+      213: -218376213837768441
+    second: sch_D_59
+  - first:
+      213: 5731324084302145860
+    second: sch_D_60
+  - first:
+      213: -5675911348163608958
+    second: sch_D_61
+  - first:
+      213: -6116212666237811927
+    second: sch_D_62
+  - first:
+      213: -7908255046416235522
+    second: sch_D_63
+  - first:
+      213: -3757485698102641476
+    second: sch_D_64
+  - first:
+      213: -601788685377865652
+    second: sch_D_65
+  - first:
+      213: 3243969595287066358
+    second: sch_D_66
+  - first:
+      213: 6091582206589175684
+    second: sch_D_67
+  - first:
+      213: 4329576360728664514
+    second: sch_D_68
+  - first:
+      213: -6899632168099193688
+    second: sch_D_69
+  - first:
+      213: -959166232954671713
+    second: sch_D_70
+  - first:
+      213: -5675453397961520511
+    second: sch_D_71
+  - first:
+      213: 2802378050594951085
+    second: sch_D_72
+  - first:
+      213: 4309496034148915929
+    second: sch_D_73
+  - first:
+      213: 1129181982612900260
+    second: sch_D_74
+  - first:
+      213: 910348440856751837
+    second: sch_D_75
+  - first:
+      213: 3879719834534411037
+    second: sch_D_76
+  - first:
+      213: -353855170080697761
+    second: sch_D_77
+  - first:
+      213: -7016761881006071748
+    second: sch_D_78
+  - first:
+      213: 8968219436701092361
+    second: sch_D_79
+  - first:
+      213: 501784812587650217
+    second: sch_D_80
+  - first:
+      213: 3800905156183282351
+    second: sch_D_81
+  - first:
+      213: -9206132675180364510
+    second: sch_D_82
+  - first:
+      213: 501727195136858291
+    second: sch_D_83
+  - first:
+      213: 2879686420019958987
+    second: sch_D_84
+  - first:
+      213: -8516985685146811928
+    second: sch_D_85
+  - first:
+      213: -3925388780453628633
+    second: sch_D_86
+  - first:
+      213: -6054979293844280469
+    second: sch_D_87
+  - first:
+      213: -2195504081760837344
+    second: sch_D_88
+  - first:
+      213: 8531892464182403752
+    second: sch_D_89
+  - first:
+      213: -8068071426698126799
+    second: sch_D_90
+  - first:
+      213: 8328880396208546446
+    second: sch_D_91
+  - first:
+      213: -249646456856680248
+    second: sch_D_92
+  - first:
+      213: 623082626260106063
+    second: sch_D_93
+  - first:
+      213: -6132372393091043231
+    second: sch_D_101
+  - first:
+      213: 3646676208608428477
+    second: sch_D_102
+  - first:
+      213: -5855463972413877007
+    second: sch_D_103
+  - first:
+      213: -1705311046812835582
+    second: sch_D_104
+  - first:
+      213: -864760331333744433
+    second: sch_D_105
+  - first:
+      213: 4690402452168354485
+    second: sch_D_106
+  - first:
+      213: -5474398190254685911
+    second: sch_D_107
+  - first:
+      213: 1931155769918987265
+    second: sch_D_108
+  - first:
+      213: 3049179233545136113
+    second: sch_D_109
+  - first:
+      213: -8339738544854979731
+    second: sch_D_110
+  - first:
+      213: -603785206107534631
+    second: sch_D_111
+  - first:
+      213: 9172838954233692188
+    second: sch_D_112
+  - first:
+      213: 1706193904849048341
+    second: sch_D_113
+  - first:
+      213: -8522236275953083329
+    second: sch_D_114
+  - first:
+      213: 1538440196794006239
+    second: sch_D_115
+  - first:
+      213: -5556935647163276148
+    second: sch_D_116
+  - first:
+      213: 7454559840857483240
+    second: sch_D_117
+  - first:
+      213: 9070992570510489801
+    second: sch_D_118
+  - first:
+      213: -118253968542012885
+    second: sch_D_119
+  - first:
+      213: -3129392630832671399
+    second: sch_D_120
+  - first:
+      213: 7145784291745387803
+    second: sch_D_121
+  - first:
+      213: -4905011060350032807
+    second: sch_D_122
+  - first:
+      213: -8973760574383556449
+    second: sch_D_123
+  - first:
+      213: 5160677319342717142
+    second: sch_D_124
+  - first:
+      213: 2374856342863725260
+    second: sch_D_125
+  - first:
+      213: -4144200796603295013
+    second: sch_D_126
+  - first:
+      213: -1669911310383382266
+    second: sch_D_127
+  - first:
+      213: 2643602918705943070
+    second: sch_D_128
+  - first:
+      213: -1418354212500667272
+    second: sch_D_129
+  - first:
+      213: -7400366488346458451
+    second: sch_D_130
+  - first:
+      213: 2985087084750159742
+    second: sch_D_131
+  - first:
+      213: 4969450793856483496
+    second: sch_D_132
+  - first:
+      213: -874302526993730653
+    second: sch_D_133
+  - first:
+      213: 461258154268377321
+    second: sch_D_134
+  - first:
+      213: 4810855340691271164
+    second: sch_D_135
+  - first:
+      213: 4285658261608270406
+    second: sch_D_136
+  - first:
+      213: 560413421425453524
+    second: sch_D_137
+  - first:
+      213: -6391018107409089134
+    second: sch_D_138
+  - first:
+      213: 4180032935779821892
+    second: sch_D_139
+  - first:
+      213: 7322666109350699126
+    second: sch_D_140
+  - first:
+      213: 3667696136318797183
+    second: sch_D_141
+  - first:
+      213: -8475573812955766140
+    second: sch_D_142
+  - first:
+      213: 4153864748268973511
+    second: sch_D_143
+  - first:
+      213: 8336874714111752784
+    second: sch_D_144
+  - first:
+      213: 4607657128137693864
+    second: sch_D_145
+  - first:
+      213: 1128551157647691994
+    second: sch_D_146
+  - first:
+      213: 7213009229725677462
+    second: sch_D_147
+  - first:
+      213: -3729210142324658860
+    second: sch_D_148
+  - first:
+      213: -3143510571859997076
+    second: sch_D_149
+  - first:
+      213: 1567042295475371921
+    second: sch_D_150
+  - first:
+      213: 5715218331026711400
+    second: sch_D_151
+  - first:
+      213: -8410247814364709147
+    second: sch_D_152
+  - first:
+      213: 7642634664043294994
+    second: sch_D_153
+  - first:
+      213: 5541393186654173857
+    second: sch_D_154
+  - first:
+      213: 4691306284590799153
+    second: sch_D_155
+  - first:
+      213: -1781619128982301832
+    second: sch_D_156
+  - first:
+      213: 3799868706901582592
+    second: sch_D_157
+  - first:
+      213: -7979484934321743769
+    second: sch_D_158
+  - first:
+      213: 690949064537318135
+    second: sch_D_159
+  - first:
+      213: 1322388270180313686
+    second: sch_D_160
+  - first:
+      213: 6134660301697056873
+    second: sch_D_161
+  - first:
+      213: 4695288966040362696
+    second: sch_D_162
+  - first:
+      213: -4799036435751054365
+    second: sch_D_163
+  - first:
+      213: -6160129322937261019
+    second: sch_D_164
+  - first:
+      213: -7270891279615174443
+    second: sch_D_165
+  - first:
+      213: 7633869592583517486
+    second: sch_D_166
+  - first:
+      213: 8937803268659580798
+    second: sch_D_167
+  - first:
+      213: 6797628000189673257
+    second: sch_D_168
+  - first:
+      213: 8266476483465826003
+    second: sch_D_169
+  - first:
+      213: -9079583073992325165
+    second: sch_D_170
+  - first:
+      213: 6533279132672470171
+    second: sch_D_171
+  - first:
+      213: 3963088969193473501
+    second: sch_D_172
+  - first:
+      213: -7765862771492962020
+    second: sch_D_173
+  - first:
+      213: 6127653807027927653
+    second: sch_D_174
+  - first:
+      213: -5220789815428545084
+    second: sch_D_175
+  - first:
+      213: 3791419386881351599
+    second: sch_D_176
+  - first:
+      213: 4010242526629175394
+    second: sch_D_177
+  - first:
+      213: -8962858232121967782
+    second: sch_D_178
+  - first:
+      213: 7324520526666883667
+    second: sch_D_179
+  - first:
+      213: 7113695498850262364
+    second: sch_D_180
+  - first:
+      213: 6359569860202651907
+    second: sch_D_181
+  - first:
+      213: 4738921154282571787
+    second: sch_D_182
+  - first:
+      213: -8641013459172391296
+    second: sch_D_183
+  - first:
+      213: -1060597143390750407
+    second: sch_D_184
+  - first:
+      213: 1619573540230139865
+    second: sch_D_185
+  - first:
+      213: -1531902773217483147
+    second: sch_D_186
+  - first:
+      213: 4481855670916696730
+    second: sch_D_187
+  - first:
+      213: 2559838316031584656
+    second: sch_D_188
+  - first:
+      213: 7941146088709301633
+    second: sch_D_189
+  - first:
+      213: -9158807309527600197
+    second: sch_D_190
+  - first:
+      213: -5935344811953445037
+    second: sch_D_191
+  - first:
+      213: 4732423028052770131
+    second: sch_D_192
+  - first:
+      213: 2770236567930391323
+    second: sch_D_193
+  - first:
+      213: 931378807480474639
+    second: sch_D_194
+  - first:
+      213: 3878579335957219128
+    second: sch_D_195
+  - first:
+      213: 1663199851802364126
+    second: sch_D_196
+  - first:
+      213: 832430747426327631
+    second: sch_D_197
+  - first:
+      213: -7952280277507040239
+    second: sch_D_198
+  - first:
+      213: -4060085601613360462
+    second: sch_D_199
+  - first:
+      213: 6023367739138198663
+    second: sch_D_200
+  - first:
+      213: -7764398356318568653
+    second: sch_D_201
+  - first:
+      213: 6929202173093368773
+    second: sch_D_202
+  - first:
+      213: -6691927090411669742
+    second: sch_D_203
+  - first:
+      213: 1166508613039698054
+    second: sch_D_204
+  - first:
+      213: -7259430849785554648
+    second: sch_D_205
+  - first:
+      213: -8324496282454217435
+    second: sch_D_206
+  - first:
+      213: 2342532185605651747
+    second: sch_D_207
+  - first:
+      213: 6557641481450867665
+    second: sch_D_208
+  - first:
+      213: 2736713908701430580
+    second: sch_D_209
+  - first:
+      213: 4713945415885382938
+    second: sch_D_210
+  - first:
+      213: 7965430803770649800
+    second: sch_D_211
+  - first:
+      213: 4220067245346355062
+    second: sch_D_212
+  - first:
+      213: -735073882369727798
+    second: sch_D_213
+  - first:
+      213: -5998390229414531981
+    second: sch_D_214
+  - first:
+      213: -600332631297130207
+    second: sch_D_215
+  - first:
+      213: -1803716081569722073
+    second: sch_D_216
+  - first:
+      213: 588447334564176479
+    second: sch_D_217
+  - first:
+      213: 1929196221770741922
+    second: sch_D_218
+  - first:
+      213: -5765552965434757217
+    second: sch_D_219
+  - first:
+      213: 609041711709036964
+    second: sch_D_220
+  - first:
+      213: -4429408578047008362
+    second: sch_D_221
+  - first:
+      213: -2719388524004436791
+    second: sch_D_222
+  - first:
+      213: 8301481816109471695
+    second: sch_D_223
+  - first:
+      213: -5603322984300942786
+    second: sch_D_224
+  - first:
+      213: -3470545625956450059
+    second: sch_D_225
+  - first:
+      213: -4047291110985772060
+    second: sch_D_226
+  - first:
+      213: 1795862912805832915
+    second: sch_D_227
+  - first:
+      213: 9088046296364230125
+    second: sch_D_228
+  - first:
+      213: 8351310388877601698
+    second: sch_D_229
+  - first:
+      213: -8774662047279238817
+    second: sch_D_230
+  - first:
+      213: 5473408846548682012
+    second: sch_D_231
+  - first:
+      213: 1450115199342492025
+    second: sch_D_232
+  - first:
+      213: -5757208065626101189
+    second: sch_D_233
+  - first:
+      213: -1795663258258800742
+    second: sch_D_234
+  - first:
+      213: 4265411779452990101
+    second: sch_D_235
+  - first:
+      213: 1153310738909240976
+    second: sch_D_236
+  - first:
+      213: -4014428370589825810
+    second: sch_D_237
+  - first:
+      213: -5561570082621644149
+    second: sch_D_238
+  - first:
+      213: 7415814789019415245
+    second: sch_D_239
+  - first:
+      213: 1403900599476657547
+    second: sch_D_240
+  - first:
+      213: -1711361562117314619
+    second: sch_D_241
+  - first:
+      213: 2533720931208809300
+    second: sch_D_242
+  - first:
+      213: 5642611213693221310
+    second: sch_D_243
+  - first:
+      213: 288809107552433855
+    second: sch_D_244
+  - first:
+      213: -6716189915921986816
+    second: sch_D_245
+  - first:
+      213: -4193202591271420089
+    second: sch_D_246
+  - first:
+      213: -4422267825532994724
+    second: sch_D_247
+  - first:
+      213: 3249278429552473272
+    second: sch_D_248
+  - first:
+      213: 6129088913052671689
+    second: sch_D_249
+  - first:
+      213: -4442245063989159677
+    second: sch_D_250
+  - first:
+      213: 8288957194155864227
+    second: sch_D_251
+  - first:
+      213: 262834416530065513
+    second: sch_D_252
+  - first:
+      213: -8541399298471332434
+    second: sch_D_253
+  - first:
+      213: -5207993093148218595
+    second: sch_D_254
+  - first:
+      213: -7523832733839021572
+    second: sch_D_255
+  - first:
+      213: 2250432250666908536
+    second: sch_D_256
+  - first:
+      213: -4931185127014897709
+    second: sch_D_257
+  - first:
+      213: 5433373992156691531
+    second: sch_D_258
+  - first:
+      213: 4789828071316594365
+    second: sch_D_259
+  - first:
+      213: 3497929483552334891
+    second: sch_D_260
+  - first:
+      213: 2004883291062187576
+    second: sch_D_261
+  - first:
+      213: -969849537523281569
+    second: sch_D_262
+  - first:
+      213: 6173518469974899600
+    second: sch_D_263
+  - first:
+      213: -9209403992493729588
+    second: sch_D_264
+  - first:
+      213: -827179748084884448
+    second: sch_D_265
+  - first:
+      213: 5360243250900213278
+    second: sch_D_266
+  - first:
+      213: 6341531759972944306
+    second: sch_D_267
+  - first:
+      213: 2740678572911751129
+    second: sch_D_268
+  - first:
+      213: 495515427546949491
+    second: sch_D_269
+  - first:
+      213: -7383668725040043739
+    second: sch_D_270
+  - first:
+      213: 8700681989957539688
+    second: sch_D_271
+  - first:
+      213: -8360303625664824894
+    second: sch_D_272
+  - first:
+      213: 396611990886002819
+    second: sch_D_273
+  - first:
+      213: -7501063296244735092
+    second: sch_D_274
+  - first:
+      213: -958462246554237160
+    second: sch_D_275
+  - first:
+      213: 1458263456261681317
+    second: sch_D_276
+  - first:
+      213: 6338771333727207413
+    second: sch_D_277
+  - first:
+      213: 2477754817140284739
+    second: sch_D_278
+  - first:
+      213: 8750480986351601868
+    second: sch_D_279
+  - first:
+      213: -6231936022703312402
+    second: sch_D_280
+  - first:
+      213: -4298846512856228241
+    second: sch_D_281
+  - first:
+      213: -5619943648105410735
+    second: sch_D_282
+  - first:
+      213: -3917614238995854718
+    second: sch_D_283
+  - first:
+      213: -7392841390328892899
+    second: sch_D_284
+  - first:
+      213: -2170709928820104000
+    second: sch_D_285
+  - first:
+      213: 8207711510064765318
+    second: sch_D_286
+  - first:
+      213: 8150188726827794636
+    second: sch_D_287
+  - first:
+      213: 8220151523343049807
+    second: sch_D_288
+  - first:
+      213: -2352046816589781123
+    second: sch_D_289
+  - first:
+      213: 3479141424345946684
+    second: sch_D_290
+  - first:
+      213: 6117792149944560155
+    second: sch_D_291
+  - first:
+      213: -439837058224633368
+    second: sch_D_292
+  - first:
+      213: 3116334484904669519
+    second: sch_D_293
+  - first:
+      213: 7262221397929900985
+    second: sch_D_294
+  - first:
+      213: -6918324677108093235
+    second: sch_D_295
+  - first:
+      213: 1015888553066065480
+    second: sch_D_296
+  - first:
+      213: 353390028279466490
+    second: sch_D_297
+  - first:
+      213: 2464564245937573400
+    second: sch_D_298
+  - first:
+      213: 2189185520320319386
+    second: sch_D_299
+  - first:
+      213: 1341487912784709440
+    second: sch_D_300
+  - first:
+      213: -4927677539276196210
+    second: sch_D_301
+  - first:
+      213: 2932406013011063934
+    second: sch_D_302
+  - first:
+      213: 813525156249201076
+    second: sch_D_303
+  - first:
+      213: 7195706113054337470
+    second: sch_D_304
+  - first:
+      213: -6531838624506155262
+    second: sch_D_305
+  - first:
+      213: 6644000582065299795
+    second: sch_D_306
+  - first:
+      213: -7804333679890150179
+    second: sch_D_307
+  - first:
+      213: 4169015593288219292
+    second: sch_D_308
+  - first:
+      213: 6438884822856004475
+    second: sch_D_309
+  - first:
+      213: -4438668215174556796
+    second: sch_D_310
+  - first:
+      213: 3693935811412241303
+    second: sch_D_311
+  - first:
+      213: -6023435043048109835
+    second: sch_D_312
+  - first:
+      213: -7483439201450354736
+    second: sch_D_313
+  - first:
+      213: 5462397161344297678
+    second: sch_D_314
+  - first:
+      213: -1040223283009032418
+    second: sch_D_315
+  - first:
+      213: -1727482661516213071
+    second: sch_D_316
+  - first:
+      213: -1753042092106944187
+    second: sch_D_317
+  - first:
+      213: -170773588532406737
+    second: sch_D_318
+  - first:
+      213: 3161053665004688922
+    second: sch_D_319
+  - first:
+      213: 3263888500801543786
+    second: sch_D_320
+  - first:
+      213: 1945117518890444960
+    second: sch_D_321
+  - first:
+      213: 8355853307840658868
+    second: sch_D_322
+  - first:
+      213: -1534075893005154688
+    second: sch_D_323
+  - first:
+      213: 3681744056952690318
+    second: sch_D_324
+  - first:
+      213: -3598023313179251966
+    second: sch_D_325
+  - first:
+      213: 8626589645783275034
+    second: sch_D_326
+  - first:
+      213: -8600676544945817789
+    second: sch_D_327
+  - first:
+      213: -4973997228246788153
+    second: sch_D_328
+  - first:
+      213: 2129560414613991704
+    second: sch_D_329
+  - first:
+      213: 791970168838582999
+    second: sch_D_330
+  - first:
+      213: 2930718315986041973
+    second: sch_D_331
+  - first:
+      213: 6387606352745335345
+    second: sch_D_332
+  - first:
+      213: 3733408254964055566
+    second: sch_D_333
+  - first:
+      213: -8533737482713464887
+    second: sch_D_334
+  - first:
+      213: 1719690891857346382
+    second: sch_D_335
+  - first:
+      213: -3819655559739431271
+    second: sch_D_336
+  - first:
+      213: 4098702671953265162
+    second: sch_D_337
+  - first:
+      213: -8935071673920368075
+    second: sch_D_338
+  - first:
+      213: 7709173708694213460
+    second: sch_D_339
+  - first:
+      213: -8412817899583123287
+    second: sch_D_340
+  - first:
+      213: 7480855828754132647
+    second: sch_D_341
+  - first:
+      213: 7824208077996374522
+    second: sch_D_342
+  - first:
+      213: 4104878249512277223
+    second: sch_D_343
+  - first:
+      213: -7067986961784390223
+    second: sch_D_344
+  - first:
+      213: -3727583176197264742
+    second: sch_D_345
+  - first:
+      213: -6395949067839942803
+    second: sch_D_346
+  - first:
+      213: -5502055414488317721
+    second: sch_D_347
+  - first:
+      213: 6741682277803180634
+    second: sch_D_348
+  - first:
+      213: 8135590227739967168
+    second: sch_D_349
+  - first:
+      213: -7050360995677671622
+    second: sch_D_350
+  - first:
+      213: -6830174566125173499
+    second: sch_D_351
+  - first:
+      213: -7972070525814368345
+    second: sch_D_352
+  - first:
+      213: -4019088353833527287
+    second: sch_D_353
+  - first:
+      213: -4724015411968848414
+    second: sch_D_354
+  - first:
+      213: -4329660848151681709
+    second: sch_D_355
+  - first:
+      213: 8356888964395669636
+    second: sch_D_356
+  - first:
+      213: 6054240242658732436
+    second: sch_D_357
+  - first:
+      213: -794178434219314115
+    second: sch_D_358
+  - first:
+      213: -7548864684833798065
+    second: sch_D_359
+  - first:
+      213: -2714234364967827424
+    second: sch_D_360
+  - first:
+      213: 1683851182930340260
+    second: sch_D_361
+  - first:
+      213: -1054684674637264882
+    second: sch_D_362
+  - first:
+      213: -9081888537093355573
+    second: sch_D_363
+  - first:
+      213: -4746805968142746509
+    second: sch_D_364
+  - first:
+      213: 3793879655181938097
+    second: sch_D_365
+  - first:
+      213: 8720098331561413757
+    second: sch_D_366
+  - first:
+      213: 9160847550916490168
+    second: sch_D_367
+  - first:
+      213: -4709187429314654746
+    second: sch_D_368
+  - first:
+      213: -2269777840816591060
+    second: sch_D_369
+  - first:
+      213: -5247629402211685276
+    second: sch_D_370
+  - first:
+      213: -2219215736313145066
+    second: sch_D_371
+  - first:
+      213: 5824734718062249547
+    second: sch_D_372
+  - first:
+      213: -6985591597943092386
+    second: sch_D_373
+  - first:
+      213: 6836197215827123401
+    second: sch_D_374
+  - first:
+      213: 991186928225485264
+    second: sch_D_375
+  - first:
+      213: -8183505169305799193
+    second: sch_D_376
+  - first:
+      213: 3435051837837162060
+    second: sch_D_377
+  - first:
+      213: -6675845861801414418
+    second: sch_D_378
+  - first:
+      213: 3740005156090405436
+    second: sch_D_379
+  - first:
+      213: -125543000167548965
+    second: sch_D_380
+  - first:
+      213: -4671181189603061446
+    second: sch_D_381
+  - first:
+      213: -2825564284907019496
+    second: sch_D_382
+  - first:
+      213: 413473674342211109
+    second: sch_D_383
+  - first:
+      213: -7239545204758533234
+    second: sch_D_384
+  - first:
+      213: -4074972416319960154
+    second: sch_D_385
+  - first:
+      213: -92888117560509247
+    second: sch_D_386
+  - first:
+      213: 5493150869425459597
+    second: sch_D_387
+  - first:
+      213: -9176319769952259038
+    second: sch_D_388
+  - first:
+      213: 8983088707600986143
+    second: sch_D_389
+  - first:
+      213: -403749282358874558
+    second: sch_D_390
+  - first:
+      213: -2435158193144177743
+    second: sch_D_391
+  - first:
+      213: 6951831020526861059
+    second: sch_D_392
+  - first:
+      213: 1920201539762877597
+    second: sch_D_393
+  - first:
+      213: -4555862286955398000
+    second: sch_D_394
+  - first:
+      213: -7013712151920321756
+    second: sch_D_395
+  - first:
+      213: 6691160652345875505
+    second: sch_D_396
+  - first:
+      213: -3166604953523813912
+    second: sch_D_397
+  - first:
+      213: -7277166252715917727
+    second: sch_D_398
+  - first:
+      213: -5940280188646866795
+    second: sch_D_399
+  - first:
+      213: -7559373503403317802
+    second: sch_D_400
+  - first:
+      213: 3306461637895220405
+    second: sch_D_401
+  - first:
+      213: 969374724092594928
+    second: sch_D_402
+  - first:
+      213: -4120845105767080604
+    second: sch_D_403
+  - first:
+      213: -1731092983350101211
+    second: sch_D_404
+  - first:
+      213: -3736051229282160181
+    second: sch_D_405
+  - first:
+      213: -3022523252466370780
+    second: sch_D_406
+  - first:
+      213: 9219589158643176496
+    second: sch_D_407
+  - first:
+      213: 601830451616317272
+    second: sch_D_408
+  - first:
+      213: 7512379006821260573
+    second: sch_D_409
+  - first:
+      213: -5577416532475916540
+    second: sch_D_410
+  - first:
+      213: -4471377554283016811
+    second: sch_D_411
+  - first:
+      213: 3769783094193441932
+    second: sch_D_412
+  - first:
+      213: 7954432657506454929
+    second: sch_D_413
+  - first:
+      213: -1960958277821602580
+    second: sch_D_414
+  - first:
+      213: 260570134798223089
+    second: sch_D_415
+  - first:
+      213: 8228775391793270566
+    second: sch_D_416
+  - first:
+      213: 1919387596967013344
+    second: sch_D_417
+  - first:
+      213: 3168610526794577733
+    second: sch_D_418
+  - first:
+      213: -5364252952671540488
+    second: sch_D_419
+  - first:
+      213: -4382903189270738516
+    second: sch_D_420
+  - first:
+      213: -2378746546584071178
+    second: sch_D_421
+  - first:
+      213: 3353935400153998164
+    second: sch_D_422
+  - first:
+      213: -4846986427794293288
+    second: sch_D_423
+  - first:
+      213: 8441101809856251787
+    second: sch_D_424
+  - first:
+      213: -8437538690248100114
+    second: sch_D_425
+  - first:
+      213: 8178997279067293059
+    second: sch_D_426
+  - first:
+      213: 6458701431886863104
+    second: sch_D_427
+  - first:
+      213: -3949781869307573807
+    second: sch_D_428
+  - first:
+      213: -7652323051846278365
+    second: sch_D_429
+  - first:
+      213: -4761454856728683205
+    second: sch_D_430
+  - first:
+      213: -2241095802355056838
+    second: sch_D_431
+  - first:
+      213: 5683221606949264391
+    second: sch_D_432
+  - first:
+      213: -3821942515034946487
+    second: sch_D_433
+  - first:
+      213: -1482436128419745362
+    second: sch_D_434
+  - first:
+      213: -5096589361353167172
+    second: sch_D_435
+  - first:
+      213: 4477380729379163659
+    second: sch_D_436
+  - first:
+      213: 5466304862016113185
+    second: sch_D_437
+  - first:
+      213: -6335892585110442426
+    second: sch_D_438
+  - first:
+      213: 1853537854812544040
+    second: sch_D_439
+  - first:
+      213: -6484111894715572070
+    second: sch_D_440
+  - first:
+      213: 1618285275175717049
+    second: sch_D_441
+  - first:
+      213: -4044189145501549576
+    second: sch_D_442
+  - first:
+      213: 7381391384013825275
+    second: sch_D_443
+  - first:
+      213: 538051646732531727
+    second: sch_D_444
+  - first:
+      213: 5901772703144566747
+    second: sch_D_445
+  - first:
+      213: -1376414236104444478
+    second: sch_D_446
+  - first:
+      213: 8668774696243082950
+    second: sch_D_447
+  - first:
+      213: -1906019956000776407
+    second: sch_D_448
+  - first:
+      213: -4904922832420343990
+    second: sch_D_449
+  - first:
+      213: 8564764902430828157
+    second: sch_D_450
+  - first:
+      213: 4806770780204084408
+    second: sch_D_451
+  - first:
+      213: 2481020607020632606
+    second: sch_D_452
+  - first:
+      213: 7332369301740559071
+    second: sch_D_453
+  - first:
+      213: 7038765408530710321
+    second: sch_D_454
+  - first:
+      213: -2424032902844243683
+    second: sch_D_455
+  - first:
+      213: -438706192773480565
+    second: sch_D_456
+  - first:
+      213: 1929321152442908920
+    second: sch_D_457
+  - first:
+      213: -6461353156859003576
+    second: sch_D_458
+  - first:
+      213: -4695224374243801420
+    second: sch_D_459
+  - first:
+      213: 3554362336892341169
+    second: sch_D_460
+  - first:
+      213: -871574077732151924
+    second: sch_D_461
+  - first:
+      213: 4187949573096449900
+    second: sch_D_462
+  - first:
+      213: -393712388862513789
+    second: sch_D_463
+  - first:
+      213: -6150879754223385797
+    second: sch_D_464
+  - first:
+      213: 6170907159869095459
+    second: sch_D_465
+  - first:
+      213: 2559313368869057262
+    second: sch_D_466
+  - first:
+      213: 6445700003098968779
+    second: sch_D_467
+  - first:
+      213: -3099995127703447194
+    second: sch_D_468
+  - first:
+      213: -7082973820688552391
+    second: sch_D_469
+  - first:
+      213: -5755790921561048980
+    second: sch_D_470
+  - first:
+      213: 2941828449116319732
+    second: sch_D_471
+  - first:
+      213: -7757999798630048985
+    second: sch_D_472
+  - first:
+      213: 5536527495507209838
+    second: sch_D_473
+  - first:
+      213: -4659855232457442785
+    second: sch_D_474
+  - first:
+      213: 1471120922074901411
+    second: sch_D_475
+  - first:
+      213: -8320414477467812381
+    second: sch_D_476
+  - first:
+      213: -6448513983229535116
+    second: sch_D_477
+  - first:
+      213: -6992246849528977227
+    second: sch_D_478
+  - first:
+      213: -3427246772168320941
+    second: sch_D_479
+  - first:
+      213: -2952393902070755837
+    second: sch_D_480
+  - first:
+      213: 8785584255438027653
+    second: sch_D_481
+  - first:
+      213: -3779124131775054219
+    second: sch_D_482
+  - first:
+      213: -4341691679461860569
+    second: sch_D_483
+  - first:
+      213: 2980726527183117089
+    second: sch_D_484
+  - first:
+      213: -6479922794773343156
+    second: sch_D_485
+  - first:
+      213: -6360234853798518602
+    second: sch_D_486
+  - first:
+      213: 3690129857619596907
+    second: sch_D_487
+  - first:
+      213: 3716679419515015848
+    second: sch_D_488
+  - first:
+      213: -587240565519062222
+    second: sch_D_489
+  - first:
+      213: 5480140768903343493
+    second: sch_D_490
+  - first:
+      213: -7477246968317914391
+    second: sch_D_491
+  - first:
+      213: 4624591220212711413
+    second: sch_D_492
+  - first:
+      213: -123415968345247317
+    second: sch_D_493
+  - first:
+      213: -7235600535747018139
+    second: sch_D_494
+  - first:
+      213: 1290844979243611018
+    second: sch_D_495
+  - first:
+      213: -9062631144460853247
+    second: sch_D_496
+  - first:
+      213: -3723240146650009410
+    second: sch_D_497
+  - first:
+      213: 8187844888776616645
+    second: sch_D_498
+  - first:
+      213: -859598470608796942
+    second: sch_D_499
+  - first:
+      213: 2923346779029141304
+    second: sch_D_500
+  - first:
+      213: 2563951115700582648
+    second: sch_D_501
+  - first:
+      213: -3429291176568546024
+    second: sch_D_502
+  - first:
+      213: 8813567694591287054
+    second: sch_D_503
+  - first:
+      213: -8779163139519572568
+    second: sch_D_504
+  - first:
+      213: 7422119353249589108
+    second: sch_D_505
+  - first:
+      213: 1598155326694154654
+    second: sch_D_506
+  - first:
+      213: -260656394083028234
+    second: sch_D_507
+  - first:
+      213: 3301310947355145975
+    second: sch_D_508
+  - first:
+      213: 8645426771705962376
+    second: sch_D_509
+  - first:
+      213: -1344944252988049002
+    second: sch_D_510
+  - first:
+      213: 819398260362101411
+    second: sch_D_511
+  - first:
+      213: -3043353610937614880
+    second: sch_D_512
+  - first:
+      213: 4212767573932407479
+    second: sch_D_513
+  - first:
+      213: -7854528765638643663
+    second: sch_D_514
+  - first:
+      213: 1783886692628011408
+    second: sch_D_515
+  - first:
+      213: 1729788602597214688
+    second: sch_D_516
+  - first:
+      213: 8706590245160415771
+    second: sch_D_517
+  - first:
+      213: -2331872917472266361
+    second: sch_D_518
+  - first:
+      213: 1620432762761997325
+    second: sch_D_519
+  - first:
+      213: -2193695896188370970
+    second: sch_D_520
+  - first:
+      213: -754418599345583050
+    second: sch_D_521
+  - first:
+      213: -4169359320872250874
+    second: sch_D_522
+  - first:
+      213: 2762769892489166306
+    second: sch_D_523
+  - first:
+      213: 5468110519294741364
+    second: sch_D_524
+  - first:
+      213: 6373575051332052952
+    second: sch_D_525
+  - first:
+      213: 4496024761287352629
+    second: sch_D_526
+  - first:
+      213: 3600123065251745591
+    second: sch_D_527
+  - first:
+      213: -3532750528409073293
+    second: sch_D_528
+  - first:
+      213: -1817290822893387093
+    second: sch_D_529
+  - first:
+      213: -7636875852286960430
+    second: sch_D_530
+  - first:
+      213: -7840671967778231713
+    second: sch_D_531
+  - first:
+      213: 3422247820283215956
+    second: sch_D_532
+  - first:
+      213: 4428250817642021273
+    second: sch_D_533
+  - first:
+      213: 6561956145932244464
+    second: sch_D_534
+  - first:
+      213: -5527169011893291012
+    second: sch_D_535
+  - first:
+      213: 2026917136824679403
+    second: sch_D_536
+  - first:
+      213: -6009347506103209393
+    second: sch_D_537
+  - first:
+      213: 3649308698446958835
+    second: sch_D_538
+  - first:
+      213: -4513424026406121015
+    second: sch_D_539
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sch_D_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 676
+        width: 288
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a05568c91a80620800000000000000
+      internalID: 2740618066895637085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 722
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75225005bfd4f80800000000000000
+      internalID: -8120558231977043976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 732
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db1c4c24dd682fc0800000000000000
+      internalID: -3519442350746362926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 742
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8ad8397bd4cd30800000000000000
+      internalID: 4450923645440265935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 672
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf16ba54e1ed9e200800000000000000
+      internalID: 209943079248683516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 694
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d5821488cb38d0800000000000000
+      internalID: -2865476268319190357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 698
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcffbaf07e2578e80800000000000000
+      internalID: -8176475446113992755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 690
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6cd0e388c1d5f10800000000000000
+      internalID: 2259993959492077218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 354
+        width: 241
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a80adcaf912b80800000000000000
+      internalID: -8421274263464926644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 629
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28bfcaeae27cef0800000000000000
+      internalID: -88050339949083956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 630
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901aecef6f3e8610800000000000000
+      internalID: 1625306265476010138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 504
+        width: 289
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12662126a44fdc5e0800000000000000
+      internalID: -1887584068488239583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 597
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a85f19b28a3533d0800000000000000
+      internalID: -3227609224815093597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 592
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29409d962f9478090800000000000000
+      internalID: -8032370104885246830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 589
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25406f7eaab6530800000000000000
+      internalID: 3849358219759866528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 544
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f59c1c02d4f2b0800000000000000
+      internalID: -5551581491179949400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 548
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537df04b3245663e0800000000000000
+      internalID: -2060867267153897675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 480
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f81131b5266e30800000000000000
+      internalID: 4496322720939176506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 494
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a635847a039ebe70800000000000000
+      internalID: 9132898767467787940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 419
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc46aae1b3f531c0800000000000000
+      internalID: -4524442305152267014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 392
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41bd4064650e160800000000000000
+      internalID: 7052731875191362725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 384
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9cc24b9069d5ce0800000000000000
+      internalID: -1414809739502761483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 373
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60090717901ddfd70800000000000000
+      internalID: 9078642262336901126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 362
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73de00a1673669a70800000000000000
+      internalID: 8833357078027365687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 452
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0660dba299fb6a0800000000000000
+      internalID: -6431253334022790946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 450
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02596840fcc54f340800000000000000
+      internalID: 4896640739062486304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9b321441bcc600800000000000000
+      internalID: 489961365398330532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 288
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911e8e2b7b91f590800000000000000
+      internalID: -7642156139306675820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 308
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3eb40ebe9f3b0c0800000000000000
+      internalID: -4561027206120479755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 356
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a1a4a7e760aa20800000000000000
+      internalID: 3071569190463841641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679ab117a3d5e540800000000000000
+      internalID: 5036664472794208104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52adbc84ab1c73460800000000000000
+      internalID: 7221453533341276709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97342643f9a92c70800000000000000
+      internalID: 8946868997067126683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 240
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe18bc2c3f58ded0800000000000000
+      internalID: -2389054890267107650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 290
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107c57fb1ffbb4f0800000000000000
+      internalID: -811774812231012323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 306
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56d652f21b57540800000000000000
+      internalID: 5005101376941680125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 265
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b2cdf96c44aaf0800000000000000
+      internalID: -386099649934347224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 290
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0e0d77518dbc40800000000000000
+      internalID: 5529718130241048362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 288
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f806b1ee23b4160800000000000000
+      internalID: 7010753243175227285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 312
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d14b0faa741e9c0800000000000000
+      internalID: -3899757002817790645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 312
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa19849347a95160800000000000000
+      internalID: 7014821803302918816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184940ff312be8070800000000000000
+      internalID: 8110615777893454977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b635e2589007b0800000000000000
+      internalID: -5260036882968431748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 240
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6aa9b52820ba250800000000000000
+      internalID: 5956857691033478865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 320
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb6b40eab9fa700800000000000000
+      internalID: 553832450895559439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbfbc5cc47ae1c20800000000000000
+      internalID: 3179162335147981788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 209
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58212e0bedf1620d0800000000000000
+      internalID: -3448033423394729339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37b3ea0851120e0800000000000000
+      internalID: -2296530692559113256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 92
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006e359b45215950800000000000000
+      internalID: 6435966349045817356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 176
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72c529879c4bfe0800000000000000
+      internalID: -1174092083148085271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 173
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e3447b145a519f0800000000000000
+      internalID: -498310482088411548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 125
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210275134e4015e0800000000000000
+      internalID: -1940965389367115485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c699394dd43766e20800000000000000
+      internalID: 3343486551485290860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68e18781334d550800000000000000
+      internalID: 6184624368474031806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60315387c47043b0800000000000000
+      internalID: -5530291942160519058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 112
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c03f08ca23de060800000000000000
+      internalID: 6984294313600683022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685574fbd2bef53f0800000000000000
+      internalID: -909750017990371962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 26
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa2af6ac8da0930800000000000000
+      internalID: 4110335973896924994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 48
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2344ec6509f4d50800000000000000
+      internalID: 6723751471189602985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091ec29dfb28fcf0800000000000000
+      internalID: -218376213837768441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 37
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449687983e0c98f40800000000000000
+      internalID: 5731324084302145860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e791c73bc1b31b0800000000000000
+      internalID: -5675911348163608958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92386223cf8de1ba0800000000000000
+      internalID: -6116212666237811927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef38b2d5feb304290800000000000000
+      internalID: -7908255046416235522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_64
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc3bf36aaabadbc0800000000000000
+      internalID: -3757485698102641476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f33a016406a7f0800000000000000
+      internalID: -601788685377865652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_66
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 443
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d04dd825e40d20800000000000000
+      internalID: 3243969595287066358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48786d70eb5a98450800000000000000
+      internalID: 6091582206589175684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 510
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c91921d2ceb51c30800000000000000
+      internalID: 4329576360728664514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 455
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd69359159f30a0800000000000000
+      internalID: -6899632168099193688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 447
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9def2c946b50b2f0800000000000000
+      internalID: -959166232954671713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4833543dbc31b0800000000000000
+      internalID: -5675453397961520511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 488
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf40184dfb04e620800000000000000
+      internalID: 2802378050594951085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 439
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da96647fc76ecb30800000000000000
+      internalID: 4309496034148915929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 501
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c960d709abaf00800000000000000
+      internalID: 1129181982612900260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 534
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee81f651532ac00800000000000000
+      internalID: 910348440856751837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf57542a887d530800000000000000
+      internalID: 3879719834534411037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 603
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52976df89ad61bf0800000000000000
+      internalID: -353855170080697761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 581
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a121ee347f9e90800000000000000
+      internalID: -7016761881006071748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 550
+        width: 47
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a8250ef04857c70800000000000000
+      internalID: 8968219436701092361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_80
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 548
+        width: 48
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac09f3e0a2b6f600800000000000000
+      internalID: 501784812587650217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 679
+        width: 285
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2514bf9178fb430800000000000000
+      internalID: 3800905156183282351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df1ccab1f3d3080800000000000000
+      internalID: -9206132675180364510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_83
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 651
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b81948c93e76f600800000000000000
+      internalID: 501727195136858291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_84
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 640
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45ec1ba83b6f720800000000000000
+      internalID: 2879686420019958987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_85
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 577
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ccbfe4a69dc980800000000000000
+      internalID: -8516985685146811928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_86
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 580
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f1c7a3b73689c0800000000000000
+      internalID: -3925388780453628633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 613
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be014b96468fba0800000000000000
+      internalID: -6054979293844280469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sch_D_88
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 141
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a9bf7ba00881e0800000000000000
+      internalID: -2195504081760837344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5508 @@
+fileFormatVersion: 2
+guid: 5f116fa6fcf03ab40a042206a139ebe4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4845024631444543978
+    second: celianna_furniture_0
+  - first:
+      213: -3860301865736933552
+    second: celianna_furniture_1
+  - first:
+      213: -8644570159897901186
+    second: celianna_furniture_2
+  - first:
+      213: -6876000706017722305
+    second: celianna_furniture_3
+  - first:
+      213: -6217191428614713323
+    second: celianna_furniture_4
+  - first:
+      213: -6213914399696621401
+    second: celianna_furniture_5
+  - first:
+      213: -6613956775298941320
+    second: celianna_furniture_6
+  - first:
+      213: -2677704317378755147
+    second: celianna_furniture_7
+  - first:
+      213: -7066144282377203363
+    second: celianna_furniture_8
+  - first:
+      213: -4622193283775504696
+    second: celianna_furniture_9
+  - first:
+      213: -8721054661295679534
+    second: celianna_furniture_10
+  - first:
+      213: -4115221394056850388
+    second: celianna_furniture_11
+  - first:
+      213: -6339736220481659102
+    second: celianna_furniture_12
+  - first:
+      213: 6397789987006194267
+    second: celianna_furniture_13
+  - first:
+      213: -4609400964612388220
+    second: celianna_furniture_14
+  - first:
+      213: 3179170492231770462
+    second: celianna_furniture_15
+  - first:
+      213: -1551113172954382508
+    second: celianna_furniture_16
+  - first:
+      213: 7877767451630729533
+    second: celianna_furniture_17
+  - first:
+      213: 8802392411266384246
+    second: celianna_furniture_18
+  - first:
+      213: 6527547045466489189
+    second: celianna_furniture_19
+  - first:
+      213: 8133219948028501597
+    second: celianna_furniture_20
+  - first:
+      213: -5982583871508530544
+    second: celianna_furniture_21
+  - first:
+      213: 877100121465640847
+    second: celianna_furniture_22
+  - first:
+      213: 2493973842355090715
+    second: celianna_furniture_23
+  - first:
+      213: -1293324501517907255
+    second: celianna_furniture_24
+  - first:
+      213: 7017068775799360985
+    second: celianna_furniture_25
+  - first:
+      213: -1957826957331023910
+    second: celianna_furniture_26
+  - first:
+      213: -522684382518053649
+    second: celianna_furniture_27
+  - first:
+      213: -1234485613569509711
+    second: celianna_furniture_28
+  - first:
+      213: -6712251700870435289
+    second: celianna_furniture_29
+  - first:
+      213: -559173493561751084
+    second: celianna_furniture_30
+  - first:
+      213: -4035840166755543947
+    second: celianna_furniture_31
+  - first:
+      213: -8796507229175216624
+    second: celianna_furniture_32
+  - first:
+      213: -2997294010276632401
+    second: celianna_furniture_33
+  - first:
+      213: 3078198403224909227
+    second: celianna_furniture_34
+  - first:
+      213: -8312697703016168447
+    second: celianna_furniture_35
+  - first:
+      213: -6184171080844817036
+    second: celianna_furniture_36
+  - first:
+      213: -3070202218370891440
+    second: celianna_furniture_37
+  - first:
+      213: 847305866352207932
+    second: celianna_furniture_38
+  - first:
+      213: -6779476264498565926
+    second: celianna_furniture_39
+  - first:
+      213: -5719468990577451285
+    second: celianna_furniture_40
+  - first:
+      213: 2456298718024282629
+    second: celianna_furniture_41
+  - first:
+      213: -6699635100931837427
+    second: celianna_furniture_42
+  - first:
+      213: -8751537742293719984
+    second: celianna_furniture_43
+  - first:
+      213: -3709509077951854059
+    second: celianna_furniture_44
+  - first:
+      213: -4841226691665550729
+    second: celianna_furniture_45
+  - first:
+      213: -4482626960299465780
+    second: celianna_furniture_46
+  - first:
+      213: 6059931987495367597
+    second: celianna_furniture_47
+  - first:
+      213: -4654828171970019397
+    second: celianna_furniture_48
+  - first:
+      213: -2367744673171058561
+    second: celianna_furniture_49
+  - first:
+      213: 1807500820553236430
+    second: celianna_furniture_50
+  - first:
+      213: -3428789049965690172
+    second: celianna_furniture_51
+  - first:
+      213: -5399751018734615906
+    second: celianna_furniture_52
+  - first:
+      213: 931338873705548112
+    second: celianna_furniture_53
+  - first:
+      213: -6761702857225013245
+    second: celianna_furniture_54
+  - first:
+      213: 7057964688374863204
+    second: celianna_furniture_55
+  - first:
+      213: -2329677255882146110
+    second: celianna_furniture_56
+  - first:
+      213: 6153170777850784065
+    second: celianna_furniture_57
+  - first:
+      213: -8627527619318692624
+    second: celianna_furniture_58
+  - first:
+      213: -980553266416094118
+    second: celianna_furniture_59
+  - first:
+      213: -1956239714265988489
+    second: celianna_furniture_60
+  - first:
+      213: 715180625845546511
+    second: celianna_furniture_61
+  - first:
+      213: -7988217081730145674
+    second: celianna_furniture_62
+  - first:
+      213: 2845982462164703176
+    second: celianna_furniture_63
+  - first:
+      213: -1503928450134519253
+    second: celianna_furniture_64
+  - first:
+      213: -4371398657472951268
+    second: celianna_furniture_65
+  - first:
+      213: -2281233459266925774
+    second: celianna_furniture_66
+  - first:
+      213: 8625210626278469388
+    second: celianna_furniture_67
+  - first:
+      213: -5500622224953148858
+    second: celianna_furniture_68
+  - first:
+      213: -6814583152525493647
+    second: celianna_furniture_69
+  - first:
+      213: 6475505513440735151
+    second: celianna_furniture_70
+  - first:
+      213: 8677621035339163082
+    second: celianna_furniture_71
+  - first:
+      213: 3021604227853407289
+    second: celianna_furniture_72
+  - first:
+      213: 2521975526204840715
+    second: celianna_furniture_73
+  - first:
+      213: -3023915838916758508
+    second: celianna_furniture_74
+  - first:
+      213: 530970463483064066
+    second: celianna_furniture_75
+  - first:
+      213: -4800259359156163470
+    second: celianna_furniture_76
+  - first:
+      213: -8179753367025781896
+    second: celianna_furniture_77
+  - first:
+      213: 6248656178951414102
+    second: celianna_furniture_78
+  - first:
+      213: 6327565773613278806
+    second: celianna_furniture_79
+  - first:
+      213: -6421461873790787315
+    second: celianna_furniture_80
+  - first:
+      213: 6875999709148479851
+    second: celianna_furniture_81
+  - first:
+      213: 1834761565272749425
+    second: celianna_furniture_82
+  - first:
+      213: 9109352955150840662
+    second: celianna_furniture_83
+  - first:
+      213: 8512520932813632796
+    second: celianna_furniture_84
+  - first:
+      213: -7994900052501889902
+    second: celianna_furniture_85
+  - first:
+      213: -4430033310946805460
+    second: celianna_furniture_86
+  - first:
+      213: 7834215170192327020
+    second: celianna_furniture_87
+  - first:
+      213: -9070490801650779720
+    second: celianna_furniture_88
+  - first:
+      213: 2072912068724910045
+    second: celianna_furniture_89
+  - first:
+      213: -8306451496356085627
+    second: celianna_furniture_90
+  - first:
+      213: 7566863629828734169
+    second: celianna_furniture_91
+  - first:
+      213: 3693736180301073383
+    second: celianna_furniture_92
+  - first:
+      213: -7518081535294869100
+    second: celianna_furniture_93
+  - first:
+      213: 8964113612327599707
+    second: celianna_furniture_94
+  - first:
+      213: -7123456101712199542
+    second: celianna_furniture_95
+  - first:
+      213: -6479448711317906182
+    second: celianna_furniture_96
+  - first:
+      213: 2198683898308340046
+    second: celianna_furniture_97
+  - first:
+      213: -7697467301161254041
+    second: celianna_furniture_98
+  - first:
+      213: -3357961489518203475
+    second: celianna_furniture_99
+  - first:
+      213: -8547982046207808704
+    second: celianna_furniture_100
+  - first:
+      213: -3619020242031245485
+    second: celianna_furniture_101
+  - first:
+      213: 8769509235248511031
+    second: celianna_furniture_102
+  - first:
+      213: -3185679256726355383
+    second: celianna_furniture_103
+  - first:
+      213: -283080914621067335
+    second: celianna_furniture_104
+  - first:
+      213: 4974800801759112791
+    second: celianna_furniture_105
+  - first:
+      213: -2267758263153332403
+    second: celianna_furniture_106
+  - first:
+      213: 645044172847110260
+    second: celianna_furniture_107
+  - first:
+      213: 5233936606318326898
+    second: celianna_furniture_108
+  - first:
+      213: -6079856030074566539
+    second: celianna_furniture_109
+  - first:
+      213: 5622745628181177038
+    second: celianna_furniture_110
+  - first:
+      213: 6088156131517327951
+    second: celianna_furniture_111
+  - first:
+      213: -3429434084909859734
+    second: celianna_furniture_112
+  - first:
+      213: -900121642706775489
+    second: celianna_furniture_113
+  - first:
+      213: 3927722618429527981
+    second: celianna_furniture_114
+  - first:
+      213: -5757964843790117772
+    second: celianna_furniture_115
+  - first:
+      213: 110933193271667096
+    second: celianna_furniture_116
+  - first:
+      213: 6523622557916223640
+    second: celianna_furniture_117
+  - first:
+      213: -5596315191937394730
+    second: celianna_furniture_118
+  - first:
+      213: 5280702611072920579
+    second: celianna_furniture_119
+  - first:
+      213: -3900749637798077866
+    second: celianna_furniture_120
+  - first:
+      213: -305825592961820927
+    second: celianna_furniture_121
+  - first:
+      213: -7989404265270622255
+    second: celianna_furniture_122
+  - first:
+      213: 6006594366688745376
+    second: celianna_furniture_123
+  - first:
+      213: 5551986632377197931
+    second: celianna_furniture_124
+  - first:
+      213: -1116193408197157477
+    second: celianna_furniture_125
+  - first:
+      213: -2599868610501251906
+    second: celianna_furniture_126
+  - first:
+      213: 450867321017460123
+    second: celianna_furniture_127
+  - first:
+      213: -8480715844370581856
+    second: celianna_furniture_128
+  - first:
+      213: -8482670026215465750
+    second: celianna_furniture_129
+  - first:
+      213: -2498412136977796516
+    second: celianna_furniture_130
+  - first:
+      213: 2777940475641897188
+    second: celianna_furniture_131
+  - first:
+      213: 4011331051797929363
+    second: celianna_furniture_132
+  - first:
+      213: 2958076309750079653
+    second: celianna_furniture_133
+  - first:
+      213: 6853941227564162653
+    second: celianna_furniture_134
+  - first:
+      213: 150088810306874176
+    second: celianna_furniture_135
+  - first:
+      213: 924691058677038269
+    second: celianna_furniture_136
+  - first:
+      213: 4971464446116402976
+    second: celianna_furniture_137
+  - first:
+      213: -8946184447336427198
+    second: celianna_furniture_138
+  - first:
+      213: -2621080843091496175
+    second: celianna_furniture_139
+  - first:
+      213: -9100013252141715530
+    second: celianna_furniture_140
+  - first:
+      213: 5280377925222717298
+    second: celianna_furniture_141
+  - first:
+      213: -2988148136305889301
+    second: celianna_furniture_142
+  - first:
+      213: -7870806232073014249
+    second: celianna_furniture_143
+  - first:
+      213: 1525306932123851078
+    second: celianna_furniture_144
+  - first:
+      213: -3513775368466465436
+    second: celianna_furniture_145
+  - first:
+      213: -6139505206755365249
+    second: celianna_furniture_146
+  - first:
+      213: -5117658369596299582
+    second: celianna_furniture_147
+  - first:
+      213: -772604408741649707
+    second: celianna_furniture_148
+  - first:
+      213: 3621689692865662299
+    second: celianna_furniture_149
+  - first:
+      213: 2843800458054362758
+    second: celianna_furniture_150
+  - first:
+      213: 8892618036217016824
+    second: celianna_furniture_151
+  - first:
+      213: 5883220575200686621
+    second: celianna_furniture_152
+  - first:
+      213: -7514698664082705968
+    second: celianna_furniture_153
+  - first:
+      213: -6492049238661330938
+    second: celianna_furniture_154
+  - first:
+      213: -8099108840615552935
+    second: celianna_furniture_155
+  - first:
+      213: 8137613730314394664
+    second: celianna_furniture_156
+  - first:
+      213: 2228383325863786818
+    second: celianna_furniture_157
+  - first:
+      213: -8158471590720998471
+    second: celianna_furniture_158
+  - first:
+      213: -4175749887427129157
+    second: celianna_furniture_159
+  - first:
+      213: 1224808078542591076
+    second: celianna_furniture_160
+  - first:
+      213: -7901734983933672232
+    second: celianna_furniture_161
+  - first:
+      213: 7245436970118699712
+    second: celianna_furniture_162
+  - first:
+      213: 8477311215081304604
+    second: celianna_furniture_163
+  - first:
+      213: 4845422652123362975
+    second: celianna_furniture_164
+  - first:
+      213: -118639811994379275
+    second: celianna_furniture_165
+  - first:
+      213: -2953846551678898845
+    second: celianna_furniture_166
+  - first:
+      213: 1542232061004265601
+    second: celianna_furniture_167
+  - first:
+      213: -6534710039874521776
+    second: celianna_furniture_168
+  - first:
+      213: 875126024187136716
+    second: celianna_furniture_169
+  - first:
+      213: -1665639823696472590
+    second: celianna_furniture_170
+  - first:
+      213: 1514535805148224477
+    second: celianna_furniture_171
+  - first:
+      213: 4043328161405842596
+    second: celianna_furniture_172
+  - first:
+      213: -3136414674439108165
+    second: celianna_furniture_173
+  - first:
+      213: 2337867413241712032
+    second: celianna_furniture_174
+  - first:
+      213: 3190451219352005301
+    second: celianna_furniture_175
+  - first:
+      213: -3981926658234264123
+    second: celianna_furniture_176
+  - first:
+      213: -4604297767470277555
+    second: celianna_furniture_177
+  - first:
+      213: 2082130273577045299
+    second: celianna_furniture_178
+  - first:
+      213: -5516183685489144823
+    second: celianna_furniture_179
+  - first:
+      213: 4495346771874375265
+    second: celianna_furniture_180
+  - first:
+      213: 6280861561530231049
+    second: celianna_furniture_181
+  - first:
+      213: 6340171067364440078
+    second: celianna_furniture_182
+  - first:
+      213: 1516553587755583278
+    second: celianna_furniture_183
+  - first:
+      213: -981714383461215019
+    second: celianna_furniture_184
+  - first:
+      213: -8907709502774410556
+    second: celianna_furniture_185
+  - first:
+      213: -3377020004766307728
+    second: celianna_furniture_186
+  - first:
+      213: -7352580708718631271
+    second: celianna_furniture_187
+  - first:
+      213: 8562140842712985199
+    second: celianna_furniture_188
+  - first:
+      213: 6030323570347638018
+    second: celianna_furniture_189
+  - first:
+      213: 2780138389427749860
+    second: celianna_furniture_190
+  - first:
+      213: -76232930617866951
+    second: celianna_furniture_191
+  - first:
+      213: -2390757587943459372
+    second: celianna_furniture_192
+  - first:
+      213: -4405470141173485132
+    second: celianna_furniture_193
+  - first:
+      213: 6960248913902292942
+    second: celianna_furniture_194
+  - first:
+      213: -1194783071416937062
+    second: celianna_furniture_195
+  - first:
+      213: -4393367055751889105
+    second: celianna_furniture_196
+  - first:
+      213: -1975561287554554318
+    second: celianna_furniture_197
+  - first:
+      213: 3963367260687066258
+    second: celianna_furniture_198
+  - first:
+      213: -7719110604396275299
+    second: celianna_furniture_199
+  - first:
+      213: 3113636974440686274
+    second: celianna_furniture_200
+  - first:
+      213: 6994147454956678018
+    second: celianna_furniture_201
+  - first:
+      213: -8655140741592056613
+    second: celianna_furniture_202
+  - first:
+      213: 5790737706123257301
+    second: celianna_furniture_203
+  - first:
+      213: 4793585550555870209
+    second: celianna_furniture_204
+  - first:
+      213: 7965665313889392884
+    second: celianna_furniture_205
+  - first:
+      213: -4020411690826472359
+    second: celianna_furniture_206
+  - first:
+      213: 7447778058913267417
+    second: celianna_furniture_207
+  - first:
+      213: -7990486577407509344
+    second: celianna_furniture_208
+  - first:
+      213: 7698454704275488739
+    second: celianna_furniture_209
+  - first:
+      213: 4802928478407806578
+    second: celianna_furniture_210
+  - first:
+      213: -2174698478864550128
+    second: celianna_furniture_211
+  - first:
+      213: 3621088079538002664
+    second: celianna_furniture_212
+  - first:
+      213: -7875949620873247177
+    second: celianna_furniture_213
+  - first:
+      213: 5004501487985386555
+    second: celianna_furniture_214
+  - first:
+      213: 8746943249970811491
+    second: celianna_furniture_215
+  - first:
+      213: 5169788221498005440
+    second: celianna_furniture_216
+  - first:
+      213: 6110037670649617033
+    second: celianna_furniture_217
+  - first:
+      213: 4646664327971463597
+    second: celianna_furniture_218
+  - first:
+      213: -8015974084476841658
+    second: celianna_furniture_219
+  - first:
+      213: -2830149750849882126
+    second: celianna_furniture_220
+  - first:
+      213: -3682900536611680303
+    second: celianna_furniture_221
+  - first:
+      213: 7199023583620861390
+    second: celianna_furniture_222
+  - first:
+      213: 8296211242231782956
+    second: celianna_furniture_223
+  - first:
+      213: 7485812008903946415
+    second: celianna_furniture_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_furniture_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1153
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae915457b3cfc3340800000000000000
+      internalID: 4845024631444543978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1158
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe8f6e7e37d6ac0800000000000000
+      internalID: -3860301865736933552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1158
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77085f8d31580880800000000000000
+      internalID: -8644570159897901186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1158
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308a7ad9c98390a0800000000000000
+      internalID: -6876000706017722305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1158
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51011d4f55918b9a0800000000000000
+      internalID: -6217191428614713323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1150
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f565b6cdb3c9a0800000000000000
+      internalID: -6213914399696621401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1150
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb488ea518634a0800000000000000
+      internalID: -6613956775298941320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b50c154c12e6dad0800000000000000
+      internalID: -2677704317378755147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51df35963300fd90800000000000000
+      internalID: -7066144282377203363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5d55a2bbaadfb0800000000000000
+      internalID: -4622193283775504696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d4beddf698f680800000000000000
+      internalID: -8721054661295679534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1135
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24572b02fbc3e6c0800000000000000
+      internalID: -4115221394056850388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1173
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f53803f7bb408a0800000000000000
+      internalID: -6339736220481659102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1173
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b522e03a81489c850800000000000000
+      internalID: 6397789987006194267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1173
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a8fec8e3e1800c0800000000000000
+      internalID: -4609400964612388220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1173
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51e0edf7beae1c20800000000000000
+      internalID: 3179170492231770462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1085
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fff9f89c6597ae0800000000000000
+      internalID: -1551113172954382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1080
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39759152c3735d60800000000000000
+      internalID: 7877767451630729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1107
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671802fc241682a70800000000000000
+      internalID: 8802392411266384246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1080
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614ea31471869a50800000000000000
+      internalID: 6527547045466489189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1c5a73700fd070800000000000000
+      internalID: 8133219948028501597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab0cb7aa799fca0800000000000000
+      internalID: -5982583871508530544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875964d9e51c2c00800000000000000
+      internalID: 877100121465640847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f0b8feff5c9220800000000000000
+      internalID: 2493973842355090715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1129
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca47bbd7303d0ee0800000000000000
+      internalID: -1293324501517907255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1129
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8102afd2a16160800000000000000
+      internalID: 7017068775799360985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_26
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1129
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b99c51c664d4e0800000000000000
+      internalID: -1957826957331023910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1129
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4fd5ac25d0fb8f0800000000000000
+      internalID: -522684382518053649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1096
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6fbd200e93edee0800000000000000
+      internalID: -1234485613569509711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1096
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2b9e14aa49d2a0800000000000000
+      internalID: -6712251700870435289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1096
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d900749baa6d38f0800000000000000
+      internalID: -559173493561751084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1050
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574584a40c0ddf7c0800000000000000
+      internalID: -4035840166755543947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_32
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1086
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160bdce7478ce580800000000000000
+      internalID: -8796507229175216624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1086
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa82e0e5af87766d0800000000000000
+      internalID: -2997294010276632401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_34
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1086
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba535648325f7ba20800000000000000
+      internalID: 3078198403224909227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_35
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1086
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104048e4b7d53ac80800000000000000
+      internalID: -8312697703016168447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1025
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4008ca296d2aa0800000000000000
+      internalID: -6184171080844817036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1025
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051036959537465d0800000000000000
+      internalID: -3070202218370891440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1025
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38270c323c32cb00800000000000000
+      internalID: 847305866352207932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_39
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 954
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcee53b1467ae1a0800000000000000
+      internalID: -6779476264498565926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_40
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1043
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed4c0914d50a0b0800000000000000
+      internalID: -5719468990577451285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1043
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b5168ba6861220800000000000000
+      internalID: 2456298718024282629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1043
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0238343f5d1603a0800000000000000
+      internalID: -6699635100931837427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1043
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a8208aca4c8680800000000000000
+      internalID: -8751537742293719984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 978
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac79db52d258cc0800000000000000
+      internalID: -3709509077951854059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 979
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a22e49f180dcb0800000000000000
+      internalID: -4841226691665550729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 980
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e2c297828ac1c0800000000000000
+      internalID: -4482626960299465780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1007
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da330b52904391450800000000000000
+      internalID: 6059931987495367597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1007
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbffe3f907ab66fb0800000000000000
+      internalID: -4654828171970019397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1007
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d0dcb3c4142fd0800000000000000
+      internalID: -2367744673171058561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_50
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 954
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7d447b68851910800000000000000
+      internalID: 1807500820553236430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_51
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 961
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2cb0b868e7a60d0800000000000000
+      internalID: -3428789049965690172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_52
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 998
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9205ccbe0b3015b0800000000000000
+      internalID: -5399751018734615906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_53
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 998
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594bbc65c7ccec00800000000000000
+      internalID: 931338873705548112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_54
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 998
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fb5e831b9922a0800000000000000
+      internalID: -6761702857225013245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_55
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 998
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46595d74d7de2f160800000000000000
+      internalID: 7057964688374863204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 961
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce76d101e25bafd0800000000000000
+      internalID: -2329677255882146110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 961
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492c18b834746550800000000000000
+      internalID: 6153170777850784065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 968
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f443a0475dd44880800000000000000
+      internalID: -8627527619318692624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_59
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 953
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547be7dfff5462f0800000000000000
+      internalID: -980553266416094118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_60
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 953
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720aaf285a0ad4e0800000000000000
+      internalID: -1956239714265988489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 953
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee3c17df4dce900800000000000000
+      internalID: 715180625845546511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 953
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67264c633e6242190800000000000000
+      internalID: -7988217081730145674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 862
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7915e78f5fe7720800000000000000
+      internalID: 2845982462164703176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 862
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d022fa09f02be0800000000000000
+      internalID: -1503928450134519253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 862
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c84b9e41ca553c0800000000000000
+      internalID: -4371398657472951268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_66
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 894
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc8aa514e6750e0800000000000000
+      internalID: -2281233459266925774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 922
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa044cd57e2b770800000000000000
+      internalID: 8625210626278469388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 917
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a7c0eda3dd9a3b0800000000000000
+      internalID: -5500622224953148858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 917
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3b5d5abcbd61a0800000000000000
+      internalID: -6814583152525493647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_70
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 913
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe7bda4fd9dd950800000000000000
+      internalID: 6475505513440735151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 903
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac529da0b5a1d6870800000000000000
+      internalID: 8677621035339163082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_72
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 903
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934550d3905eee920800000000000000
+      internalID: 3021604227853407289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_73
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 903
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1bab016bdff220800000000000000
+      internalID: 2521975526204840715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_74
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 903
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41470bed094e806d0800000000000000
+      internalID: -3023915838916758508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 862
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe126c2d26e5700800000000000000
+      internalID: 530970463483064066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 873
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca0c3bb8d026db0800000000000000
+      internalID: -4800259359156163470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 873
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737f10a6adab7e80800000000000000
+      internalID: -8179753367025781896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 873
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e2fd10bfa7b650800000000000000
+      internalID: 6248656178951414102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_79
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 873
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a325db8700d750800000000000000
+      internalID: 6327565773613278806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 873
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016cf9b27262e6a0800000000000000
+      internalID: -6421461873790787315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_81
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 873
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610c7b0e457c6f50800000000000000
+      internalID: 6875999709148479851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 781
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753f913ce1667910800000000000000
+      internalID: 1834761565272749425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 781
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bb61df3cea6e70800000000000000
+      internalID: 9109352955150840662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_84
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 781
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15fe67efac822670800000000000000
+      internalID: 8512520932813632796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 813
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7fd3d2c86c0190800000000000000
+      internalID: -7994900052501889902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 798
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293eddcc2c5582c0800000000000000
+      internalID: -4430033310946805460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 798
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614a499039b8bc60800000000000000
+      internalID: 7834215170192327020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 788
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b938256ca42f1280800000000000000
+      internalID: -9070490801650779720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 788
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e7f23b8674cc10800000000000000
+      internalID: 2072912068724910045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 788
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800faf9f5e89bc80800000000000000
+      internalID: -8306451496356085627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_91
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 794
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb3cf5166e20960800000000000000
+      internalID: 7566863629828734169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_92
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 794
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8ad85c79c24330800000000000000
+      internalID: 3693736180301073383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_93
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 784
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49173581da86aa790800000000000000
+      internalID: -7518081535294869100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_94
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 698
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb70526dde66c70800000000000000
+      internalID: 8964113612327599707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 698
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800b5cca66642d90800000000000000
+      internalID: -7123456101712199542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 698
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc98850abf5416a0800000000000000
+      internalID: -6479448711317906182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 698
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492a0c3b5b438e10800000000000000
+      internalID: 2198683898308340046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_98
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 684
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634914c54a1d2590800000000000000
+      internalID: -7697467301161254041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_99
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 724
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad63d701df1661d0800000000000000
+      internalID: -3357961489518203475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 724
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bed5d3e977f5980800000000000000
+      internalID: -8547982046207808704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_101
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 725
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35787c6a348a6cdc0800000000000000
+      internalID: -3619020242031245485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_102
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 701
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738be75cf2e83b970800000000000000
+      internalID: 8769509235248511031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_103
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 701
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ce7e28913ac3d0800000000000000
+      internalID: -3185679256726355383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 624
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8151786b421cf0800000000000000
+      internalID: -283080914621067335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 624
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2e29b8fa0a0540800000000000000
+      internalID: 4974800801759112791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 595
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe940ffdd4780e0800000000000000
+      internalID: -2267758263153332403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 610
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dcf2f148a3f800800000000000000
+      internalID: 645044172847110260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_108
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 653
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2747484ec9da2a840800000000000000
+      internalID: 5233936606318326898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 635
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57883e1372300aba0800000000000000
+      internalID: -6079856030074566539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_110
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 635
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ae16bb51080e40800000000000000
+      internalID: 5622745628181177038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_111
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 635
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae434ceb97d7450800000000000000
+      internalID: 6088156131517327951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_112
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 635
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb454aed33860d0800000000000000
+      internalID: -3429434084909859734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_113
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 614
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3252df82202283f0800000000000000
+      internalID: -900121642706775489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_114
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 614
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da752c759e2128630800000000000000
+      internalID: 3927722618429527981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_115
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 539
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474d3b84b799710b0800000000000000
+      internalID: -5757964843790117772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_116
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 603
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e1cac62d1a8100800000000000000
+      internalID: 110933193271667096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_117
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 603
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898525d1720988a50800000000000000
+      internalID: 6523622557916223640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_118
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 603
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71375cbf4e552b0800000000000000
+      internalID: -5596315191937394730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_119
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 603
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30caa71eb03d84940800000000000000
+      internalID: 5280702611072920579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_120
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 603
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adf491fd0cdd9c0800000000000000
+      internalID: -3900749637798077866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_121
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 603
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10799485e3d71cbf0800000000000000
+      internalID: -305825592961820927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 527
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7cd81862fef1190800000000000000
+      internalID: -7989404265270622255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_123
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 527
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7585090c5bb5350800000000000000
+      internalID: 6006594366688745376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_124
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 536
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b656f8c2d6e9c0d40800000000000000
+      internalID: 5551986632377197931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 539
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d96c3520c7280f0800000000000000
+      internalID: -1116193408197157477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_126
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 538
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc626006496bebd0800000000000000
+      internalID: -2599868610501251906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_127
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 539
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e31e807dc14600800000000000000
+      internalID: 450867321017460123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_128
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 534
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b34f4fd17e4a80800000000000000
+      internalID: -8480715844370581856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_129
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 534
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd294ed80874a80800000000000000
+      internalID: -8482670026215465750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_130
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 534
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f9e8066bd35dd0800000000000000
+      internalID: -2498412136977796516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_131
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 534
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a0d9f42a3d8620800000000000000
+      internalID: 2777940475641897188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_132
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 534
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd8e2b65c1ba730800000000000000
+      internalID: 4011331051797929363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_133
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 534
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e62d2bb23d0920800000000000000
+      internalID: 2958076309750079653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_134
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 534
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5edd549b371e1f50800000000000000
+      internalID: 6853941227564162653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_135
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 534
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2a1f4af8351200800000000000000
+      internalID: 150088810306874176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_136
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 533
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcbc6f5e9925dc00800000000000000
+      internalID: 924691058677038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_137
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 532
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279044e2903ef440800000000000000
+      internalID: 4971464446116402976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_138
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 429
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2415361e4a4c8d380800000000000000
+      internalID: -8946184447336427198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 429
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11333fb3cdc00abd0800000000000000
+      internalID: -2621080843091496175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_140
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 429
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfeebe392246b180800000000000000
+      internalID: -9100013252141715530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_141
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 428
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d6b01fbba74940800000000000000
+      internalID: 5280377925222717298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_142
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 428
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befed371a17f786d0800000000000000
+      internalID: -2988148136305889301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 461
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147b59ee6745c290800000000000000
+      internalID: -7870806232073014249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_144
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 461
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649dea6c29afa2510800000000000000
+      internalID: 1525306932123851078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_145
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 463
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df90e4bef8c3fc0800000000000000
+      internalID: -3513775368466465436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_146
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 463
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e6faefa881ccaa0800000000000000
+      internalID: -6139505206755365249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_147
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 461
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6686ec3dc6af8b0800000000000000
+      internalID: -5117658369596299582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_148
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 461
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ad0932682745f0800000000000000
+      internalID: -772604408741649707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_149
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 463
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d83fd4693d24230800000000000000
+      internalID: 3621689692865662299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_150
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 463
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6866c621375377720800000000000000
+      internalID: 2843800458054362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_151
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 333
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f172f32dfce86b70800000000000000
+      internalID: 8892618036217016824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_152
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 411
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d123b1841f565a150800000000000000
+      internalID: 5883220575200686621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_153
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 410
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d17f3d216d66b790800000000000000
+      internalID: -7514698664082705968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_154
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 411
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080f312d9b97e5a0800000000000000
+      internalID: -6492049238661330938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_155
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 410
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95852ed9b6f2a9f80800000000000000
+      internalID: -8099108840615552935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 413
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c1bb2a29c9ee070800000000000000
+      internalID: 8137613730314394664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 368
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b38114deccee10800000000000000
+      internalID: 2228383325863786818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 368
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b375fc405947ce80800000000000000
+      internalID: -8158471590720998471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_159
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 368
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05709f991cc06c0800000000000000
+      internalID: -4175749887427129157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_160
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 368
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645f8745746ff010800000000000000
+      internalID: 1224808078542591076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_161
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 359
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44b55b5e5675290800000000000000
+      internalID: -7901734983933672232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_162
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 359
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca586e4986fc8460800000000000000
+      internalID: 7245436970118699712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_163
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 361
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123b59a2a575a570800000000000000
+      internalID: 8477311215081304604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_164
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 361
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b17eda366e3340800000000000000
+      internalID: 4845422652123362975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_165
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 348
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1bd538b18a5ef0800000000000000
+      internalID: -118639811994379275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_166
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 348
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36daa2e1634d107d0800000000000000
+      internalID: -2953846551678898845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_167
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 356
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b06d63eb176510800000000000000
+      internalID: 1542232061004265601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_168
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 356
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b91357db0055a0800000000000000
+      internalID: -6534710039874521776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_169
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 349
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccacf5d7b72152c00800000000000000
+      internalID: 875126024187136716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_170
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 349
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d3d0c76572e8e0800000000000000
+      internalID: -1665639823696472590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_171
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 357
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb58795a46b40510800000000000000
+      internalID: 1514535805148224477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_172
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 357
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bde25a89cc1830800000000000000
+      internalID: 4043328161405842596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_173
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 340
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90cb598773974d0800000000000000
+      internalID: -3136414674439108165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_174
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 321
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adcb3a9606c17020800000000000000
+      internalID: 2337867413241712032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_175
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 321
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba20b2fa72c64c20800000000000000
+      internalID: 3190451219352005301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_176
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 309
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d94e2dca5db8c0800000000000000
+      internalID: -3981926658234264123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_177
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 308
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5fc9339f3a10c0800000000000000
+      internalID: -4604297767470277555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_178
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 300
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d85a4c37635ec10800000000000000
+      internalID: 2082130273577045299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_179
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 300
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4d9ef9249273b0800000000000000
+      internalID: -5516183685489144823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_180
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16665c7521ea26e30800000000000000
+      internalID: 4495346771874375265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_181
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092a62105a1a2750800000000000000
+      internalID: 6280861561530231049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_182
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 300
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08777d7effccf750800000000000000
+      internalID: 6340171067364440078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_183
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 300
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e270409f371eb0510800000000000000
+      internalID: 1516553587755583278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_184
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d417e638ff3062f0800000000000000
+      internalID: -981714383461215019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_185
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c282ccf665716480800000000000000
+      internalID: -8907709502774410556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_186
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 266
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2488a23a6221d0800000000000000
+      internalID: -3377020004766307728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_187
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 296
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996af621dc266f990800000000000000
+      internalID: -7352580708718631271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_188
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 312
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e65c67bb5d2d670800000000000000
+      internalID: 8562140842712985199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_189
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7c33565300b350800000000000000
+      internalID: 6030323570347638018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_190
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38448a229059620800000000000000
+      internalID: 2780138389427749860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_191
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c552bd8a21fef0800000000000000
+      internalID: -76232930617866951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_192
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57f8af3a252ded0800000000000000
+      internalID: -2390757587943459372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_193
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b3ce6f30acd2c0800000000000000
+      internalID: -4405470141173485132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_194
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfc17d9285c79060800000000000000
+      internalID: 6960248913902292942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_195
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951b8470274b6fe0800000000000000
+      internalID: -1194783071416937062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_196
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 229
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f310a90ff9703c0800000000000000
+      internalID: -4393367055751889105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_197
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 229
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2362c47d9756594e0800000000000000
+      internalID: -1975561287554554318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_198
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 247
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946aa75685b00730800000000000000
+      internalID: 3963367260687066258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_199
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 247
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99520b8dc530e490800000000000000
+      internalID: -7719110604396275299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_200
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 255
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22f0dd45cd53b20800000000000000
+      internalID: 3113636974440686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_201
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 255
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b256fbd04301160800000000000000
+      internalID: 6994147454956678018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_202
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 247
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf4683a53c2e780800000000000000
+      internalID: -8655140741592056613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_203
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 247
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5efe85345dc5050800000000000000
+      internalID: 5790737706123257301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_204
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 255
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f35529ac368240800000000000000
+      internalID: 4793585550555870209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 255
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8170a266abb8e60800000000000000
+      internalID: 7965665313889392884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_206
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 121
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e5754ed0a438c0800000000000000
+      internalID: -4020411690826472359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_207
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de397f3fa2db5760800000000000000
+      internalID: 7447778058913267417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac39131bc61c1190800000000000000
+      internalID: -7990486577407509344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_209
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef76cfe3c766da60800000000000000
+      internalID: 7698454704275488739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_210
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eca1d010e67a240800000000000000
+      internalID: 4802928478407806578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_211
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01732b9614be1d1e0800000000000000
+      internalID: -2174698478864550128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_212
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea93494c60b04230800000000000000
+      internalID: 3621088079538002664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7364af26c8103b290800000000000000
+      internalID: -7875949620873247177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_214
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 20
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34684d969f837540800000000000000
+      internalID: 5004501487985386555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d205ea82636970800000000000000
+      internalID: 8746943249970811491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_216
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 85
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7136a2ff6ceb740800000000000000
+      internalID: 5169788221498005440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_217
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 85
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a535b93e63bc450800000000000000
+      internalID: 6110037670649617033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_218
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 85
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e73356944c7040800000000000000
+      internalID: 4646664327971463597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_219
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 85
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64155066a0a81c090800000000000000
+      internalID: -8015974084476841658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_220
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7be6fdbc949b8d0800000000000000
+      internalID: -2830149750849882126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_221
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4a2c8975b3ecc0800000000000000
+      internalID: -3682900536611680303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_222
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8167aec118e360800000000000000
+      internalID: 7199023583620861390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_223
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 14
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed3da6b20122370800000000000000
+      internalID: 8296211242231782956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_furniture_224
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 14
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b21e4c52f2e760800000000000000
+      internalID: 7485812008903946415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

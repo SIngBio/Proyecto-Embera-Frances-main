@@ -2,6 +2,10 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Globalization;
+using System.Text;
+using System.Linq;
+
 
 public class ReadInput: MonoBehaviour
 {
@@ -30,7 +34,15 @@ public class ReadInput: MonoBehaviour
 
     public void ReadStringInput(string s)
     {
-        if (s == response)
+        string newS = new string(s.Normalize(NormalizationForm.FormD)
+        .Where(c => char.GetUnicodeCategory(c) != UnicodeCategory.NonSpacingMark)
+        .ToArray()).ToLowerInvariant();
+
+        string newResponse = new string(response.Normalize(NormalizationForm.FormD)
+        .Where(c => char.GetUnicodeCategory(c) != UnicodeCategory.NonSpacingMark)
+        .ToArray()).ToLowerInvariant();
+
+        if (newS == newResponse)
         {
             this.isCorrect = true;
         }
